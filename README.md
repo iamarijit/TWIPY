@@ -1,2 +1,2 @@
 # TWIPY
-Extract most popular hashtags using tweepy
+Extract most popular hashtags of any given country using tweepy
